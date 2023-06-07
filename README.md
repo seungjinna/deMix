@@ -38,7 +38,7 @@ One of the most popular methods for examining protein conformational changes and
   1. Download the linux version. & Extract the compressed file.</br>
   2. Double Click the .sh</br>
 
-* For the detailed explanation, refer to the [manual](https://drive.google.com/file/d/1CryMZvrzg6s5a5-deLbileQvsKCbCQ57/view?usp=drive_link).</br>
+* For the detailed explanation, refer to the [manual](https://drive.google.com/file/d/1nbPXjoQX9cnmt2V1u8wLXuUOIeJAIIuJ/view?usp=drive_link).</br>
 
 ## Data Availability
 Download [toy data](https://drive.google.com/drive/folders/14hrLwB3J0-TqThkVecsHuYoMv-T384M-?usp=drive_link)
