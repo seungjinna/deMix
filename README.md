@@ -26,14 +26,14 @@ One of the most popular methods for examining protein conformational changes and
     Download java here: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
 3. To run:</br>
   - Windows: </br>
-    1. Download Windows version. & Extract the compressed file.</br>
-    2. Double Click the bat file. → Run anyway/Run</br>
+  1. Download Windows version. & Extract the compressed file.</br>
+  2. Double Click the bat file. → Run anyway/Run</br>
   - macOS: 
-    1. Download Windows version. & Extract the compressed file.</br>
-    2. Right-click the deMix → Open with Terminal → Open. </br>
+  1. Download Windows version. & Extract the compressed file.</br>
+  2. Right-click the deMix → Open with Terminal → Open. </br>
   - Linux:</br>
-    1. Download the linux version. & Extract the compressed file.</br>
-    2. Double Click the .sh</br>
+  1. Download the linux version. & Extract the compressed file.</br>
+  2. Double Click the .sh</br>
 
 * For detailed explanation, refer to the [manual] (https://drive.google.com/file/d/1CryMZvrzg6s5a5-deLbileQvsKCbCQ57/view?usp=drive_link).</br>
 
