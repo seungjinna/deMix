@@ -5,14 +5,14 @@ One of the most popular methods for examining protein conformational changes and
 
 ## What deMix  provides:
 1. Peptide centric view (Deuterated Distributions)</br>
-  ●  Allows users to compare a natural isotope distribution and the corresponding deuterated isotope distribution in one of HDX experiments   across D2O labeling with theoretical, aggregated (over elution time spans), and manually annotated distributions for the chosen peptide.</br>
-  ● Offers a deuteration rate (or deuterium uptake) plot across D2O labeling time for the selected peptide.</br>
+- Allows users to compare a natural isotope distribution and the corresponding deuterated isotope distribution in one of HDX experiments     across D2O labeling with theoretical, aggregated (over elution time spans), and manually annotated distributions for the chosen peptide.</br>
+- Offers a deuteration rate (or deuterium uptake) plot across D2O labeling time for the selected peptide.</br>
 2. Protein centric view (Dynamics)</br>
-  ● Allows users to view the dynamics of the protein.</br>
-  ● Offers sequence coverage maps for HDX-MS data. Visually represents the HDX rate of each D2O labeling times within the HDX-MS dataset       using colors (= Heat Map).</br>
+ - Allows users to view the dynamics of the protein.</br>
+ - Offers sequence coverage maps for HDX-MS data. Visually represents the HDX rate of each D2O labeling times within the HDX-MS dataset       using colors (= Heat Map).</br>
 3. User-friendly environment</br>
-  ● Includes intuitive and interactive GUI or features.</br>
-  ● Allows users to focus more on analysis rather than spend time adapting to the software.</br>
+  - Includes intuitive and interactive GUI or features.</br>
+  - Allows users to focus more on analysis rather than spend time adapting to the software.</br>
 
 ## How to start:
 1. Click the google drive link provided. </br>
