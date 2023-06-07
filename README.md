@@ -1,5 +1,4 @@
 # deMix
-
 ## Introduction
 One of the most popular methods for examining protein conformational changes and dynamics is hydrogen/deuterium exchange (HDX) with mass spectrometry (MS). We previously developed a fully automated algorithm to analyze deuterated isotopic distributions in-depth called deMix (Na et al. 2019 [1]). Here, we introduce the graphical user interface(GUI) version of deMix. The software automatically analyzes HDX data and facilitates the interrogation of data and results. deMix offers visualization of isotopic cluster distributions and sequence coverage maps in heat map form to compare deuteration rates over time.
 
@@ -15,9 +14,11 @@ One of the most popular methods for examining protein conformational changes and
   - Allows users to focus more on analysis rather than spend time adapting to the software.</br>
 
 ## How to start:
-1. Click the google drive link provided. </br>
-2. Download the deMix file based on your OS.</br>
-3. For installation & run guidance, read deMix_maunal provided. </br>
+1. Download the deMix file based on your OS.</br>
+  - [Windows](https://drive.google.com/file/d/1ftpRSKrVI6Z8jbFAWq9gZ621oK0QcQYB/view?usp=drive_link)
+  - [macOS](https://drive.google.com/file/d/1YaeV_jYkOPHps8huhnFA7FwjQ0i8GYAr/view?usp=drive_link)
+  - [Linux](https://drive.google.com/file/d/10wxxQUAuHS3xxnchMjas__HvEdmT7b0V/view?usp=drive_link)
+2. For installation & run guidance, read deMix_maunal provided. </br>
 
 ## References:
 [1] Na, S., Lee, JJ., Joo, J.W.J. et al. deMix: Decoding Deuterated Distributions from Heterogeneous Protein States via HDX-MS. Sci Rep 9, 3176 (2019). https://doi.org/10.1038/s41598-019-39512-8
