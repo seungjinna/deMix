@@ -20,8 +20,22 @@ One of the most popular methods for examining protein conformational changes and
   - [Windows](https://drive.google.com/file/d/1ftpRSKrVI6Z8jbFAWq9gZ621oK0QcQYB/view?usp=drive_link)
   - [macOS](https://drive.google.com/file/d/1YaeV_jYkOPHps8huhnFA7FwjQ0i8GYAr/view?usp=drive_link)
   - [Linux](https://drive.google.com/file/d/10wxxQUAuHS3xxnchMjas__HvEdmT7b0V/view?usp=drive_link)
-2. For installation & run guidance, read deMix_maunal provided. </br>
+2. Requirement(s) </br>
+  - Java Version > 17.05
+    To check (type this in the command prompt) = java - version
+    Download java here: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
+3. To run:
+  - Windows: 
+    1. Download Windows version. & Extract the compressed file.
+    2. Double Click the bat file. → Run anyway/Run
+  - macOS: 
+    1. Download Windows version. & Extract the compressed file.
+    2. Right-click the deMix → Open with Terminal → Open. 
+  - Linux:
+    1. Download the linux version. & Extract the compressed file.
+    2. Double Click the .sh
 
-## References:
-[1] Na, S., Lee, JJ., Joo, J.W.J. et al. deMix: Decoding Deuterated Distributions from Heterogeneous Protein States via HDX-MS. Sci Rep 9, 3176 (2019). https://doi.org/10.1038/s41598-019-39512-8
+* For detailed explanation, refer to the [manual] (https://drive.google.com/file/d/1CryMZvrzg6s5a5-deLbileQvsKCbCQ57/view?usp=drive_link).
+## Reference:
+[1] Na, S., Lee, JJ., Joo, J.W.J. et al. deMix: Decoding Deuterated Distributions from Heterogeneous Protein States via HDX-MS. Sci Rep 9, 3176 (2019). [https://doi.org/10.1038/s41598-019-39512-8](https://doi.org/10.1038/s41598-019-39512-8)
 
