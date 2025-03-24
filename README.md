@@ -20,7 +20,7 @@ One of the most popular methods for examining protein conformational changes and
 
 ## How to start
 1. Download the deMix file based on your OS.</br>
-  - [Windows](https://drive.google.com/file/d/1ftpRSKrVI6Z8jbFAWq9gZ621oK0QcQYB/view?usp=drive_link)
+  - [Windows](https://drive.google.com/file/d/1Xs7NcZiCh9Jugm3Ho9nkqQWV_G9akXF2/view?usp=drive_link)
   - [macOS](https://drive.google.com/file/d/1YaeV_jYkOPHps8huhnFA7FwjQ0i8GYAr/view?usp=drive_link)
   - [Linux](https://drive.google.com/file/d/10wxxQUAuHS3xxnchMjas__HvEdmT7b0V/view?usp=drive_link)
 2. Requirement(s) </br>
