@@ -5,7 +5,8 @@
 </p> 
 
 ## Introduction 
-One of the most popular methods for examining protein conformational changes and dynamics is hydrogen/deuterium exchange (HDX) with mass spectrometry (MS). We previously developed a fully automated algorithm to analyze deuterated isotopic distributions in-depth called deMix (Na et al. 2019 [1]). Here, we introduce the graphical user interface(GUI) version of deMix. The software automatically analyzes HDX data and facilitates the interrogation of data and results. deMix offers visualization of isotopic cluster distributions and sequence coverage maps in heat map form to compare deuteration rates over time.</br>
+Hydrogen/deuterium exchange mass spectrometry (HDX-MS) is a powerful technique for studying protein conformational changes and dynamics. We previously developed deMix, a fully automated algorithm for analyzing deuterium uptake (Na et al. 2019 [1]). Here, we introduce an enhanced version of 
+deMix with a graphical user interface (GUI), designed to facilitate integrated analysis through comprehensive visualization tools. The new features allow users to explore isotope distribution patterns, HDX rate kinetics, and 3D protein structure mapping in an intuitive manner. By leveraging AlphaFold structural predictions, deMix accurately maps deuterium uptake regions, enabling a more comprehensive interpretation of protein conformational dynamics. This integrated visualization approach offers researchers a versatile framework for analyzing HDX-MS data from multiple perspectives, yielding deeper structural insights and enhancing biological interpretation.</br>
 
 ## What deMix  provides:
 1. Peptide centric view (Deuterated Distributions)</br>
@@ -46,3 +47,7 @@ Download [toy data](https://drive.google.com/file/d/1gcwgn6CB0QOcHKqkPelsM9gXEEK
 ## Reference:
 [1] Na, S., Lee, JJ., Joo, J.W.J. et al. deMix: Decoding Deuterated Distributions from Heterogeneous Protein States via HDX-MS. Sci Rep 9, 3176 (2019). [https://doi.org/10.1038/s41598-019-39512-8](https://doi.org/10.1038/s41598-019-39512-8)
 
+## Rights and Permissions:
+deMix © 2025 is licensed under Creative Commons Attribution-ShareAlike 4.0 International.
+This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. If others remix, adapt, or build upon the material, they must license the modified material under identical terms. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.
+  
