@@ -1,4 +1,4 @@
-# deMix 
+# deMix - A Comprehensive Platform for Automated HDX-MS Data Processing and Visualization
 <p align="center">
 <img align="right" 
  src="https://github.com/seungjinna/deMix/assets/102386164/01bfe68e-e402-42d7-a695-8bad4b11c4d8"/> 
@@ -44,10 +44,10 @@ deMix with a graphical user interface (GUI), designed to facilitate integrated a
 ## Data Availability
 Download [toy data](https://drive.google.com/file/d/1gcwgn6CB0QOcHKqkPelsM9gXEEKnoW_p/view?usp=sharing)
 
-## Reference:
+## Reference
 [1] Na, S., Lee, JJ., Joo, J.W.J. et al. deMix: Decoding Deuterated Distributions from Heterogeneous Protein States via HDX-MS. Sci Rep 9, 3176 (2019). [https://doi.org/10.1038/s41598-019-39512-8](https://doi.org/10.1038/s41598-019-39512-8)
 
-## Rights and Permissions:
+## Rights and Permissions
 deMix © 2025 is licensed under Creative Commons Attribution-ShareAlike 4.0 International.
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. If others remix, adapt, or build upon the material, they must license the modified material under identical terms. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.
   
