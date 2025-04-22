@@ -21,9 +21,8 @@ deMix with a graphical user interface (GUI), designed to facilitate integrated a
 
 ## How to start
 1. Download the deMix file based on your OS.</br>
-  - [Windows](https://drive.google.com/file/d/1G8iZj8AZ4WlXhxaFODl8WwqONs3mzWCg/view?usp=drive_link)
-  - [macOS](https://drive.google.com/file/d/1dgQbIlaiQY2bUXyL4M3zBDOVy7jaN345/view?usp=drive_link)
-  - [Linux](https://drive.google.com/file/d/1RtyNF2e7qJRkWMHN5ytXPPX8_JIvlnxD/view?usp=drive_link)
+- Download the latest release:
+👉 [**deMix_v2.1**](https://github.com/seungjinna/deMix/releases/tag/v2.1)
 2. Requirement(s) </br>
   - Java Version > 17.05
     To check (type this in the command prompt) = java - version
