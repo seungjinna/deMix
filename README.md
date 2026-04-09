@@ -9,6 +9,7 @@ Hydrogen/deuterium exchange mass spectrometry (HDX-MS) is a powerful technique f
 deMix with a graphical user interface (GUI), designed to facilitate integrated analysis through comprehensive visualization tools. The new features allow users to explore isotope distribution patterns, HDX rate kinetics, and 3D protein structure mapping in an intuitive manner. By leveraging AlphaFold structural predictions, deMix accurately maps deuterium uptake regions, enabling a more comprehensive interpretation of protein conformational dynamics. This integrated visualization approach offers researchers a versatile framework for analyzing HDX-MS data from multiple perspectives, yielding deeper structural insights and enhancing biological interpretation.</br>
 
 ## What deMix  provides:
+![demix_figure](https://github.com/user-attachments/assets/6b120b07-3e26-4b51-bae7-9900a13de557)
 1. Peptide centric view (Deuterated Distributions)</br>
 - Allows users to compare a natural isotope distribution and the corresponding deuterated isotope distribution in one of HDX experiments     across D2O labeling with theoretical, aggregated (over elution time spans), and manually annotated distributions for the chosen peptide.</br>
 - Offers a deuteration rate (or deuterium uptake) plot across D2O labeling time for the selected peptide.</br>
