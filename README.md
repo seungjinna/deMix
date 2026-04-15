@@ -1,4 +1,4 @@
-# deMix - A GUI-Based Platform for Automated HDX-MS Data Interpretation and Structural Mapping
+# deMix: A GUI-Based Platform for Automated HDX-MS Data Interpretation and Structural Mapping
 <p align="center">
 <img align="right" 
  src="https://github.com/seungjinna/deMix/assets/102386164/01bfe68e-e402-42d7-a695-8bad4b11c4d8"/> 
