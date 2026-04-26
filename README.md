@@ -41,10 +41,10 @@ Hydrogen/deuterium exchange mass spectrometry (HDX-MS) is a powerful technique f
 * For the detailed explanation, refer to the deMix_manual.</br>
 
 ## Test dataset
-1. Download [toy data](https://drive.google.com/file/d/1h93ejKR7NvVIQW1IxaiYcRgurVGX7O3u/view?usp=sharing)
+1. Download [toy data](https://drive.google.com/file/d/1IPAUrGVRPFcO75tDMXV-331myekljLFz/view?usp=sharing)
 : D2O labeling at 3 s and 30 s for two representative peptides shown in Figure 2. The original dataset is available under accession PXD046056.
 
-2. Download [Nm23-H1 protein HDX data](https://drive.google.com/file/d/1gcwgn6CB0QOcHKqkPelsM9gXEEKnoW_p/view?usp=sharing)
+2. Download [Nm23-H1 protein HDX data](https://drive.google.com/file/d/107aGUCMsbtb40yfNSeoPwDLpy3-SDbOK/view?usp=sharing)
 : D2O labeling at multiple time points (30 s, 1 min, 3 min, 5 min, 10 min, 30 min, and 60 min)
 
 ## Rights and Permissions
