@@ -22,7 +22,7 @@ Hydrogen/deuterium exchange mass spectrometry (HDX-MS) is a powerful technique f
 ## How to start
 1. Download the deMix file based on your OS.</br>
 - Download the latest release:
-👉 [**deMix_v2.1**](https://github.com/seungjinna/deMix/releases/tag/v2.1)
+👉 [**deMix_v2.1**](https://github.com/seungjinna/deMix/releases/tag/v2.1_debug)
 2. Requirement(s) </br>
   - Java Version > 17.05
     To check (type this in the command prompt) = java - version
